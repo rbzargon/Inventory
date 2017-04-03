@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="sell_one">Sell one</string>
+    <string name="quantity">Quantity:</string>
+    <string name="price">Price:</string>
+    <string name="start_instructions">Press the button in the bottom-right corner to add an inventory item.</string>
+    <string name="sales_tracking">Sales Tracking</string>
+    <string name="shipment_tracking">Shipment Received</string>
+    <string name="delete_product">Delete Product</string>
+    <string name="order_more">Order more</string>
+    <string name="add_image">Add image</string>
+    <string name="product_name">Product Name:</string>
+    <string name="enter_name_here">Enter name here...</string>
+    <string name="quantity_add_product_activity">Quantity:</string>
+    <string name="enter_quantity_here">Enter quantity here...</string>
+    <string name="enter_price_here">Enter price here...</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="success_message">" successfully added!"</string>
+    <string name="failure_message">" failed to add!"</string>
+    <string name="no_quantity_toast">No quantity to sell!</string>
+    <string name="quantity_sold">Quantity sold:</string>
+    <string name="confirm">Confirm</string>
+    <string name="invalid_quantity_received">Invalid quantity received!</string>
+    <string name="how_many_received">How many received?</string>
+    <string name="deletion_confirmation">Are you sure you want to delete this product?</string>
+    <string name="order_request">Please fulfill this order:</string>
+    <string name="quant">, Quantity:</string>
+    <string name="order">order</string>
+    <string name="no_quantity">No quantity to sell!</string>
+    <string name="invalid_product_name">Product name is invalid!</string>
+    <string name="invalid_quantity">Quantity is empty!</string>
+    <string name="invalid_quantity_format">Invalid quantity format!</string>
+    <string name="invalid_price">Price is empty!</string>
+    <string name="invalid_price_format">Invalid price format!</string>
+</resources>
